@@ -1,6 +1,6 @@
 csgo casino
 
-frontend file inside unzip1.rar
+frontend file inside /frotnend 
 unzip2.rar
 
 
