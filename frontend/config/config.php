@@ -63,8 +63,8 @@ $recaptcha = array(
 );
 
 $google = array(
-	'client' => '184403390600-p8t95qp4fr4es7lm8el106jm8053o376.apps.googleusercontent.com',
-	'secret' => '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'
+	'client' => '',
+	'secret' => ''
 );
 
 $rewards_amounts = array(
