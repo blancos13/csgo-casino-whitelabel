@@ -62,6 +62,10 @@ $recaptcha = array(
 	'sitekey' => '6LdR1dQnAAAAADOwmpnHoRniQnCZVgDef8w6_5eO'
 );
 
+$google = array(
+	'client' => '',
+	'secret' => ''
+);
 
 $rewards_amounts = array(
 	'google' => 0.10,
