@@ -1,0 +1,543 @@
+[2024-03-07T01:16:16.751] [INFO] default - updating leaderboard
+[2024-03-07T01:16:18.100] [DEBUG] default - [ROULETTE] New Game. Hash: a869052a3553f0cd18276dd054e058ad4ce6b4b2b86ea5f2bd48aab37ba8ea03, Secret: y2hUf6Vz3posvKYw, Roll: 11
+[2024-03-07T01:16:18.100] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:16:18.105] [DEBUG] default - [BOT] Items withdraw loaded!
+[2024-03-07T01:16:18.107] [DEBUG] default - [RAIN] Rolling
+[2024-03-07T01:16:23.863] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:16:23.864] [DEBUG] default - [COINPAYMENTS] Prices Loaded
+[2024-03-07T01:16:24.112] [DEBUG] default - [CRASH] New Game. Point: 1.52x
+[2024-03-07T01:16:31.192] [DEBUG] default - [CRASH] Creshed at 1.52x
+[2024-03-07T01:16:32.470] [ERROR] default - Strange error
+[2024-03-07T01:16:32.471] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:16:36.198] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:16:39.297] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:16:42.204] [DEBUG] default - [CRASH] New Game. Point: 4.40x
+[2024-03-07T01:16:49.372] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:16:49.378] [DEBUG] default - [ROULETTE] New Game. Hash: 4e2c633675a298aa27dadbdfe7565576fbac37a08cfe7bd7978df1c133841c11, Secret: gpNO7MuJBJRXX1B5, Roll: 0
+[2024-03-07T01:16:49.378] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:16:58.231] [DEBUG] default - [RAIN] 0 users have sent a total of 0.00 coins
+[2024-03-07T01:17:06.912] [DEBUG] default - [CRASH] Creshed at 4.40x
+[2024-03-07T01:17:07.907] [ERROR] default - Strange error
+[2024-03-07T01:17:07.907] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:17:07.912] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:17:08.246] [DEBUG] default - [RAIN] Creating a new one. Rolling after 565 seconds
+[2024-03-07T01:17:10.577] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:17:11.913] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:17:17.924] [DEBUG] default - [CRASH] New Game. Point: 3.13x
+[2024-03-07T01:17:20.698] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:17:20.703] [DEBUG] default - [ROULETTE] New Game. Hash: 99128e5b64bf310eb7807ca5225d11b5ded39b5a97b16d514c450fd25bb0bbc9, Secret: r0c8VrfwtiZCwakb, Roll: 2
+[2024-03-07T01:17:20.704] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:17:23.870] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:17:36.991] [DEBUG] default - [CRASH] Creshed at 3.13x
+[2024-03-07T01:17:38.206] [ERROR] default - Strange error
+[2024-03-07T01:17:38.206] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:17:38.208] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:17:41.896] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:17:42.004] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:17:48.017] [DEBUG] default - [CRASH] New Game. Point: 1.60x
+[2024-03-07T01:17:52.009] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:17:52.014] [DEBUG] default - [ROULETTE] New Game. Hash: 7de7626a2f20580e1a3268d3322369940ff9ec8b20ffd7be650830f86a3c99f5, Secret: Sp7N3x7HHjw9dt2x, Roll: 5
+[2024-03-07T01:17:52.015] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:17:55.870] [DEBUG] default - [CRASH] Creshed at 1.60x
+[2024-03-07T01:17:56.846] [ERROR] default - Strange error
+[2024-03-07T01:17:56.846] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:17:56.848] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:18:00.872] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:18:06.888] [DEBUG] default - [CRASH] New Game. Point: 1.08x
+[2024-03-07T01:18:08.190] [DEBUG] default - [CRASH] Creshed at 1.08x
+[2024-03-07T01:18:09.205] [ERROR] default - Strange error
+[2024-03-07T01:18:09.205] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:18:09.206] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:18:13.202] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:18:13.203] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:18:19.204] [DEBUG] default - [CRASH] New Game. Point: 3.49x
+[2024-03-07T01:18:23.298] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:18:23.302] [DEBUG] default - [ROULETTE] New Game. Hash: 420a34494ed8d232e417065da0227b8475695d8621f89ce88dc408e802986081, Secret: f4UhvZ0J8sQ9CVOw, Roll: 1
+[2024-03-07T01:18:23.302] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:18:23.875] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:18:40.046] [DEBUG] default - [CRASH] Creshed at 3.49x
+[2024-03-07T01:18:41.214] [ERROR] default - Strange error
+[2024-03-07T01:18:41.215] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:18:41.217] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:18:44.464] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:18:45.060] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:18:51.067] [DEBUG] default - [CRASH] New Game. Point: 1.31x
+[2024-03-07T01:18:54.558] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:18:54.563] [DEBUG] default - [ROULETTE] New Game. Hash: cffb6efd645f9c09f0db0e0ab3970d60c7f356b8058609297cc2212ecb61d092, Secret: Wr6gOaKpkvDEzDRb, Roll: 7
+[2024-03-07T01:18:54.564] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:18:55.635] [DEBUG] default - [CRASH] Creshed at 1.31x
+[2024-03-07T01:18:56.713] [ERROR] default - Strange error
+[2024-03-07T01:18:56.714] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:18:56.715] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:19:00.641] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:19:06.658] [DEBUG] default - [CRASH] New Game. Point: 1.36x
+[2024-03-07T01:19:11.885] [DEBUG] default - [CRASH] Creshed at 1.36x
+[2024-03-07T01:19:12.917] [ERROR] default - Strange error
+[2024-03-07T01:19:12.917] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:19:12.919] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:19:15.736] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:19:16.887] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:19:22.888] [DEBUG] default - [CRASH] New Game. Point: 1.11x
+[2024-03-07T01:19:23.886] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:19:24.634] [DEBUG] default - [CRASH] Creshed at 1.11x
+[2024-03-07T01:19:25.764] [ERROR] default - Strange error
+[2024-03-07T01:19:25.764] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:19:25.767] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:19:25.860] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:19:25.868] [DEBUG] default - [ROULETTE] New Game. Hash: 4c49171bfb85494cb171697d17a94a3a2752c4de8f6d882e6709013da45e7319, Secret: HnaIxOr3oDQZGw41, Roll: 2
+[2024-03-07T01:19:25.869] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:19:29.649] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:19:35.655] [DEBUG] default - [CRASH] New Game. Point: 4.99x
+[2024-03-07T01:19:47.052] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:19:57.157] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:19:57.161] [DEBUG] default - [ROULETTE] New Game. Hash: 8f3d51de35825b682d6f6c18661ed8b8decfcf1bff3c83279963faaeca1deb3a, Secret: PBnpRoJodqLco6O6, Roll: 6
+[2024-03-07T01:19:57.162] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:20:02.469] [DEBUG] default - [CRASH] Creshed at 4.99x
+[2024-03-07T01:20:03.233] [ERROR] default - Strange error
+[2024-03-07T01:20:03.233] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:20:03.235] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:20:07.472] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:20:13.482] [DEBUG] default - [CRASH] New Game. Point: 5.04x
+[2024-03-07T01:20:18.315] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:20:23.902] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:20:28.418] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:20:28.422] [DEBUG] default - [ROULETTE] New Game. Hash: bd5df6765a7cbcb1b194fa6d7e3a8f9c9b811c963529614a67723a25a041fcd2, Secret: XOSODA8qLXFA4m90, Roll: 10
+[2024-03-07T01:20:28.422] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:20:40.519] [DEBUG] default - [CRASH] Creshed at 5.04x
+[2024-03-07T01:20:41.678] [ERROR] default - Strange error
+[2024-03-07T01:20:41.679] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:20:41.682] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:20:45.525] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:20:49.603] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:20:51.536] [DEBUG] default - [CRASH] New Game. Point: 1.09x
+[2024-03-07T01:20:53.070] [DEBUG] default - [CRASH] Creshed at 1.09x
+[2024-03-07T01:20:54.369] [ERROR] default - Strange error
+[2024-03-07T01:20:54.370] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:20:54.372] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:20:58.077] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:20:59.683] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:20:59.688] [DEBUG] default - [ROULETTE] New Game. Hash: 50e2c36e38a629f2b083297b009a1e514512d901469f392a1de13d7925cef96e, Secret: 941trYdBUhAjbFxg, Roll: 4
+[2024-03-07T01:20:59.688] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:21:04.085] [DEBUG] default - [CRASH] New Game. Point: 1.24x
+[2024-03-07T01:21:07.686] [DEBUG] default - [CRASH] Creshed at 1.24x
+[2024-03-07T01:21:08.591] [ERROR] default - Strange error
+[2024-03-07T01:21:08.592] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:21:08.594] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:21:12.689] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:21:18.700] [DEBUG] default - [CRASH] New Game. Point: 4.93x
+[2024-03-07T01:21:20.885] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:21:23.914] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:21:30.970] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:21:30.974] [DEBUG] default - [ROULETTE] New Game. Hash: 2f3278e6216018547dbf9e40011ce426fdc88b8ae97975362658e60c66d169a0, Secret: J5TFvxrJKhEyspcD, Roll: 8
+[2024-03-07T01:21:30.975] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:21:45.305] [DEBUG] default - [CRASH] Creshed at 4.93x
+[2024-03-07T01:21:46.455] [ERROR] default - Strange error
+[2024-03-07T01:21:46.456] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:21:46.458] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:21:50.312] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:21:52.218] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:21:56.323] [DEBUG] default - [CRASH] New Game. Point: 1.68x
+[2024-03-07T01:22:02.314] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:22:02.318] [DEBUG] default - [ROULETTE] New Game. Hash: 6f669e5ddfdf0817e0108cb0d86578c4692fe0618b1db85f820bb4e1b2a61338, Secret: F9RcmYOPVGjfNpjV, Roll: 4
+[2024-03-07T01:22:02.318] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:22:05.030] [DEBUG] default - [CRASH] Creshed at 1.68x
+[2024-03-07T01:22:05.888] [ERROR] default - Strange error
+[2024-03-07T01:22:05.889] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:22:05.891] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:22:10.030] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:22:16.037] [DEBUG] default - [CRASH] New Game. Point: 1.93x
+[2024-03-07T01:22:23.517] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:22:23.918] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:22:27.021] [DEBUG] default - [CRASH] Creshed at 1.93x
+[2024-03-07T01:22:28.121] [ERROR] default - Strange error
+[2024-03-07T01:22:28.121] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:22:28.123] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:22:32.030] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:22:33.618] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:22:33.623] [DEBUG] default - [ROULETTE] New Game. Hash: 554f36ed5277fc9d92cef6c1e82f8f34026b6704ff801fe4ce04a8b1c3e192e2, Secret: y1ocH4t47Hj1aPEA, Roll: 3
+[2024-03-07T01:22:33.623] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:22:38.041] [DEBUG] default - [CRASH] New Game. Point: 1.07x
+[2024-03-07T01:22:39.241] [DEBUG] default - [CRASH] Creshed at 1.07x
+[2024-03-07T01:22:40.091] [ERROR] default - Strange error
+[2024-03-07T01:22:40.092] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:22:40.093] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:22:44.248] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:22:50.262] [DEBUG] default - [CRASH] New Game. Point: 4.01x
+[2024-03-07T01:22:54.805] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:23:04.877] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:23:04.882] [DEBUG] default - [ROULETTE] New Game. Hash: 2360c0bd28d0058382c01d2b8c597cfbeff5cf853a2df8efc294c79caf68033c, Secret: 0yLnVMuVddeCu3il, Roll: 14
+[2024-03-07T01:23:04.882] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:23:13.462] [DEBUG] default - [CRASH] Creshed at 4.01x
+[2024-03-07T01:23:14.388] [ERROR] default - Strange error
+[2024-03-07T01:23:14.389] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:23:14.391] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:23:18.465] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:23:23.930] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:23:24.474] [DEBUG] default - [CRASH] New Game. Point: 1.09x
+[2024-03-07T01:23:25.995] [DEBUG] default - [CRASH] Creshed at 1.09x
+[2024-03-07T01:23:26.055] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:23:27.035] [ERROR] default - Strange error
+[2024-03-07T01:23:27.035] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:23:27.037] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:23:31.005] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:23:36.158] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:23:36.162] [DEBUG] default - [ROULETTE] New Game. Hash: 7d753b0e2bcc079ea8734fd3d9b44e173e180396765dde0f7a1fe8b03303aa10, Secret: fWsnFLM4Kct0BKth, Roll: 0
+[2024-03-07T01:23:36.163] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:23:37.016] [DEBUG] default - [CRASH] New Game. Point: 1.06x
+[2024-03-07T01:23:37.996] [DEBUG] default - [CRASH] Creshed at 1.06x
+[2024-03-07T01:23:38.959] [ERROR] default - Strange error
+[2024-03-07T01:23:38.959] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:23:38.961] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:23:43.006] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:23:49.017] [DEBUG] default - [CRASH] New Game. Point: 1.20x
+[2024-03-07T01:23:52.058] [DEBUG] default - [CRASH] Creshed at 1.20x
+[2024-03-07T01:23:52.911] [ERROR] default - Strange error
+[2024-03-07T01:23:52.911] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:23:52.914] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:23:57.072] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:23:57.352] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:24:03.088] [DEBUG] default - [CRASH] New Game. Point: 1.01x
+[2024-03-07T01:24:03.308] [DEBUG] default - [CRASH] Creshed at 1.01x
+[2024-03-07T01:24:04.411] [ERROR] default - Strange error
+[2024-03-07T01:24:04.412] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:24:04.415] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:24:07.447] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:24:07.452] [DEBUG] default - [ROULETTE] New Game. Hash: 5d831fb56d2fe064c65b7b410706a94ffc135686d5fe86b1563abcfaf38301a9, Secret: nO64Nl4qc0aKaLcW, Roll: 5
+[2024-03-07T01:24:07.452] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:24:08.320] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:24:14.327] [DEBUG] default - [CRASH] New Game. Point: 2.77x
+[2024-03-07T01:24:23.945] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:24:28.641] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:24:31.314] [DEBUG] default - [CRASH] Creshed at 2.77x
+[2024-03-07T01:24:32.734] [ERROR] default - Strange error
+[2024-03-07T01:24:32.734] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:24:32.736] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:24:36.314] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:24:38.740] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:24:38.750] [DEBUG] default - [ROULETTE] New Game. Hash: 119bc87e9a992aa1ffb737534400c6a1c32580cdb201ae460ceef89b428fc884, Secret: En1IwTQq1HZhlRPS, Roll: 9
+[2024-03-07T01:24:38.750] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:24:42.323] [DEBUG] default - [CRASH] New Game. Point: 2.47x
+[2024-03-07T01:24:57.449] [DEBUG] default - [CRASH] Creshed at 2.47x
+[2024-03-07T01:24:58.515] [ERROR] default - Strange error
+[2024-03-07T01:24:58.516] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:24:58.518] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:24:59.960] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:25:02.454] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:25:08.456] [DEBUG] default - [CRASH] New Game. Point: 1.04x
+[2024-03-07T01:25:09.114] [DEBUG] default - [CRASH] Creshed at 1.04x
+[2024-03-07T01:25:10.046] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:25:10.047] [DEBUG] default - [ROULETTE] New Game. Hash: 6b32165490d432f8b2931249b80837513af0eca82eb6c982459c2b84da2c9a37, Secret: hVqpTSsv3NhqlXWc, Roll: 1
+[2024-03-07T01:25:10.047] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:25:10.123] [ERROR] default - Strange error
+[2024-03-07T01:25:10.123] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:25:10.125] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:25:14.119] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:25:20.126] [DEBUG] default - [CRASH] New Game. Point: 1.36x
+[2024-03-07T01:25:23.953] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:25:25.350] [DEBUG] default - [CRASH] Creshed at 1.36x
+[2024-03-07T01:25:26.385] [ERROR] default - Strange error
+[2024-03-07T01:25:26.385] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:25:26.388] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:25:30.356] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:25:31.225] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:25:36.363] [DEBUG] default - [CRASH] New Game. Point: 1.75x
+[2024-03-07T01:25:41.313] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:25:41.317] [DEBUG] default - [ROULETTE] New Game. Hash: f3d9c19ab4554a2e9dcaa77e205028091c91bfa2f526bc873eabdcc228a880eb, Secret: owhiagY00X7iKj6u, Roll: 0
+[2024-03-07T01:25:41.317] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:25:45.715] [DEBUG] default - [CRASH] Creshed at 1.75x
+[2024-03-07T01:25:46.651] [ERROR] default - Strange error
+[2024-03-07T01:25:46.652] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:25:46.654] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:25:50.722] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:25:56.725] [DEBUG] default - [CRASH] New Game. Point: 4.34x
+[2024-03-07T01:26:02.525] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:26:12.605] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:26:12.608] [DEBUG] default - [ROULETTE] New Game. Hash: 3e34e3781409a3d768c2cd63d1c2f3d80d4ca776422dd99117cb4e58576ba3f1, Secret: wrS4RBoPWsC4Dw6V, Roll: 9
+[2024-03-07T01:26:12.609] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:26:21.208] [DEBUG] default - [CRASH] Creshed at 4.34x
+[2024-03-07T01:26:22.151] [ERROR] default - Strange error
+[2024-03-07T01:26:22.151] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:26:22.153] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:26:23.956] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:26:26.217] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:26:32.227] [DEBUG] default - [CRASH] New Game. Point: 1.29x
+[2024-03-07T01:26:33.252] [DEBUG] default - [RAIN] Rolling
+[2024-03-07T01:26:33.798] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:26:36.574] [DEBUG] default - [CRASH] Creshed at 1.29x
+[2024-03-07T01:26:37.427] [ERROR] default - Strange error
+[2024-03-07T01:26:37.427] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:26:37.429] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:26:41.581] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:26:43.889] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:26:43.892] [DEBUG] default - [ROULETTE] New Game. Hash: 2f41d818e11e12934f94acdaa81bb9bd2a59fbc8dcae058268372629b35a38be, Secret: hAQ7ei2OHVZ8UBkE, Roll: 1
+[2024-03-07T01:26:43.892] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:26:47.587] [DEBUG] default - [CRASH] New Game. Point: 3.78x
+[2024-03-07T01:27:05.065] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:27:09.858] [DEBUG] default - [CRASH] Creshed at 3.78x
+[2024-03-07T01:27:10.820] [ERROR] default - Strange error
+[2024-03-07T01:27:10.820] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:27:10.822] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:27:13.280] [DEBUG] default - [RAIN] 0 users have sent a total of 0.00 coins
+[2024-03-07T01:27:14.859] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:27:15.170] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:27:15.172] [DEBUG] default - [ROULETTE] New Game. Hash: 84ad60e947c86e44a11e42216888be96d356e4bf6fef6adcae78bc4247d23495, Secret: 4axGh6FAf1bFPDaE, Roll: 7
+[2024-03-07T01:27:15.173] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:27:20.869] [DEBUG] default - [CRASH] New Game. Point: 6.72x
+[2024-03-07T01:27:23.288] [DEBUG] default - [RAIN] Creating a new one. Rolling after 602 seconds
+[2024-03-07T01:27:23.967] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:27:36.347] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:27:46.442] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:27:46.445] [DEBUG] default - [ROULETTE] New Game. Hash: d38ae0964ecb9868b452e16e63707ff5fa7c98b5f11995bc8df48f17cb21a2aa, Secret: GtSrbO14R63rzL78, Roll: 6
+[2024-03-07T01:27:46.446] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:27:52.724] [DEBUG] default - [CRASH] Creshed at 6.72x
+[2024-03-07T01:27:53.570] [ERROR] default - Strange error
+[2024-03-07T01:27:53.570] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:27:53.573] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:27:57.735] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:28:03.740] [DEBUG] default - [CRASH] New Game. Point: 1.23x
+[2024-03-07T01:28:07.222] [DEBUG] default - [CRASH] Creshed at 1.23x
+[2024-03-07T01:28:07.622] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:28:08.188] [ERROR] default - Strange error
+[2024-03-07T01:28:08.188] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:28:08.190] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:28:12.237] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:28:17.725] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:28:17.728] [DEBUG] default - [ROULETTE] New Game. Hash: 7289a3317749e5558958043ca27b17c72d489a49d292d31d45e290831a52c4cd, Secret: 33EEjjCSoKjPG5sK, Roll: 0
+[2024-03-07T01:28:17.728] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:28:18.251] [DEBUG] default - [CRASH] New Game. Point: 7.41x
+[2024-03-07T01:28:23.980] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:28:38.905] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:28:49.007] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:28:49.010] [DEBUG] default - [ROULETTE] New Game. Hash: ee950b75673f6185ac43ec62ad8853bf69747f8e46dc1088326d79db898f9f48, Secret: KFuFCzBNYe8dNgxm, Roll: 4
+[2024-03-07T01:28:49.011] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:28:51.660] [DEBUG] default - [CRASH] Creshed at 7.41x
+[2024-03-07T01:28:52.649] [ERROR] default - Strange error
+[2024-03-07T01:28:52.649] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:28:52.651] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:28:56.665] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:29:02.677] [DEBUG] default - [CRASH] New Game. Point: 1.28x
+[2024-03-07T01:29:06.799] [DEBUG] default - [CRASH] Creshed at 1.28x
+[2024-03-07T01:29:07.919] [ERROR] default - Strange error
+[2024-03-07T01:29:07.919] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:29:07.921] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:29:10.182] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:29:11.801] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:29:17.813] [DEBUG] default - [CRASH] New Game. Point: 5.24x
+[2024-03-07T01:29:20.282] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:29:20.285] [DEBUG] default - [ROULETTE] New Game. Hash: 8733c35a493e55d045da59baa77de5d683adb2036c501759aa9b61033663784c, Secret: KsrJPjM6U9lVoywh, Roll: 11
+[2024-03-07T01:29:20.285] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:29:23.983] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:29:41.488] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:29:45.470] [DEBUG] default - [CRASH] Creshed at 5.24x
+[2024-03-07T01:29:46.375] [ERROR] default - Strange error
+[2024-03-07T01:29:46.376] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:29:46.378] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:29:50.480] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:29:51.582] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:29:51.585] [DEBUG] default - [ROULETTE] New Game. Hash: 31d3bb861f11ee77a5785ffd2d7b6506387e92c2b3bc81ad23a2790e3b52c039, Secret: hGXqhnJCmUTkY9bx, Roll: 11
+[2024-03-07T01:29:51.585] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:29:56.482] [DEBUG] default - [CRASH] New Game. Point: 4.36x
+[2024-03-07T01:30:12.769] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:30:21.065] [DEBUG] default - [CRASH] Creshed at 4.36x
+[2024-03-07T01:30:22.205] [ERROR] default - Strange error
+[2024-03-07T01:30:22.206] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:30:22.208] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:30:22.873] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:30:22.876] [DEBUG] default - [ROULETTE] New Game. Hash: cd0465be64a7c7a684204c88fdf6c97193449f45f31bd7e9f139d595fa9b5e16, Secret: aASN4y718juskNkh, Roll: 1
+[2024-03-07T01:30:22.876] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:30:23.991] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:30:26.070] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:30:32.078] [DEBUG] default - [CRASH] New Game. Point: 1.28x
+[2024-03-07T01:30:36.241] [DEBUG] default - [CRASH] Creshed at 1.28x
+[2024-03-07T01:30:37.071] [ERROR] default - Strange error
+[2024-03-07T01:30:37.072] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:30:37.074] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:30:41.254] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:30:44.085] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:30:47.266] [DEBUG] default - [CRASH] New Game. Point: 1.87x
+[2024-03-07T01:30:54.180] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:30:54.183] [DEBUG] default - [ROULETTE] New Game. Hash: 387eae3a2c386dc98df7a892097cee815aba2491f8d6007ffd7cf598e4c20317, Secret: F9UlSgalHlzaxwiC, Roll: 5
+[2024-03-07T01:30:54.183] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:30:57.779] [DEBUG] default - [CRASH] Creshed at 1.87x
+[2024-03-07T01:30:59.108] [ERROR] default - Strange error
+[2024-03-07T01:30:59.108] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:30:59.110] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:31:02.793] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:31:08.794] [DEBUG] default - [CRASH] New Game. Point: 47.31x
+[2024-03-07T01:31:15.382] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:31:23.998] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:31:25.464] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:31:25.505] [DEBUG] default - [ROULETTE] New Game. Hash: 1d58a3df09f906b543c4de361b399e802fff346a02051f5447006fce6fa219f9, Secret: fT1UhBOZzgsxhFOY, Roll: 6
+[2024-03-07T01:31:25.506] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:31:46.675] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:31:56.759] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:31:56.763] [DEBUG] default - [ROULETTE] New Game. Hash: c5bdda856ef21812ba8a64a87d53c80a5e0e2781dfd10c8b10a325765f72eef6, Secret: Ut9BgItZT73sG2Tx, Roll: 6
+[2024-03-07T01:31:56.763] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:32:13.165] [DEBUG] default - [CRASH] Creshed at 47.31x
+[2024-03-07T01:32:14.549] [ERROR] default - Strange error
+[2024-03-07T01:32:14.549] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:32:14.552] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:32:17.968] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:32:18.172] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:32:24.004] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:32:24.189] [DEBUG] default - [CRASH] New Game. Point: 1.57x
+[2024-03-07T01:32:28.067] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:32:28.069] [DEBUG] default - [ROULETTE] New Game. Hash: 066dbba1724c2fd02bf23c1429fe71e44b500c637af3a3f8b278cb62e1ee9716, Secret: LTgMFduoI8VGfmbX, Roll: 9
+[2024-03-07T01:32:28.070] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:32:31.708] [DEBUG] default - [CRASH] Creshed at 1.57x
+[2024-03-07T01:32:32.701] [ERROR] default - Strange error
+[2024-03-07T01:32:32.701] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:32:32.703] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:32:36.711] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:32:42.719] [DEBUG] default - [CRASH] New Game. Point: 7.45x
+[2024-03-07T01:32:49.259] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:32:59.367] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:32:59.370] [DEBUG] default - [ROULETTE] New Game. Hash: 7fb6126e04438ddb920af3aca540bd8b2db2a870893ff3863ff8dd7b6c313343, Secret: nBV5rE5wDRcVpG20, Roll: 10
+[2024-03-07T01:32:59.370] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:33:16.211] [DEBUG] default - [CRASH] Creshed at 7.45x
+[2024-03-07T01:33:17.143] [ERROR] default - Strange error
+[2024-03-07T01:33:17.143] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:33:17.145] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:33:20.548] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:33:21.212] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:33:24.012] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:33:27.220] [DEBUG] default - [CRASH] New Game. Point: 1.72x
+[2024-03-07T01:33:30.638] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:33:30.640] [DEBUG] default - [ROULETTE] New Game. Hash: 67ea1c302ac55d94d9f5bb5f289fa7458aa05e021af0d748afc238a596f9a791, Secret: ZwG68Da3YNNMhb2e, Roll: 4
+[2024-03-07T01:33:30.641] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:33:36.356] [DEBUG] default - [CRASH] Creshed at 1.72x
+[2024-03-07T01:33:37.415] [ERROR] default - Strange error
+[2024-03-07T01:33:37.416] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:33:37.418] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:33:41.371] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:33:47.388] [DEBUG] default - [CRASH] New Game. Point: 12.45x
+[2024-03-07T01:33:51.836] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:34:01.924] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:34:01.927] [DEBUG] default - [ROULETTE] New Game. Hash: 400fdd6e523bea7f78f206c92635f9e90ba6d9b984545a326ebca2bb8940ccc8, Secret: 8l0G1o6BH4jja6mp, Roll: 9
+[2024-03-07T01:34:01.927] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:34:23.120] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:34:24.022] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:34:29.464] [DEBUG] default - [CRASH] Creshed at 12.45x
+[2024-03-07T01:34:30.716] [ERROR] default - Strange error
+[2024-03-07T01:34:30.717] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:34:30.719] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:34:33.222] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:34:33.224] [DEBUG] default - [ROULETTE] New Game. Hash: b7c2dfd4751bfc02aa4450f0b90b64fd3af7968649d422f35c33ad9b0190d73f, Secret: kLmFW44woxI1s4XP, Roll: 2
+[2024-03-07T01:34:33.224] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:34:34.464] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:34:40.477] [DEBUG] default - [CRASH] New Game. Point: 18.91x
+[2024-03-07T01:34:54.433] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:35:04.533] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:35:04.535] [DEBUG] default - [ROULETTE] New Game. Hash: a4c2f3e2642ba416015b5cf98372f93d0197fdaccf323567941cce2a92251271, Secret: krqG83MedjOlaTSe, Roll: 8
+[2024-03-07T01:35:04.535] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:35:24.028] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-03-07T01:35:25.722] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:35:29.504] [DEBUG] default - [CRASH] Creshed at 18.91x
+[2024-03-07T01:35:30.878] [ERROR] default - Strange error
+[2024-03-07T01:35:30.878] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:35:30.880] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:35:34.516] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:35:35.806] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:35:35.808] [DEBUG] default - [ROULETTE] New Game. Hash: 2a70799ca54b18e8d31a648e10c352a29b2546610539b74e1009e95f11913929, Secret: G51fudT3w81Ca2jt, Roll: 8
+[2024-03-07T01:35:35.808] [DEBUG] default - [ROULETTE] Starting
+[2024-03-07T01:35:40.526] [DEBUG] default - [CRASH] New Game. Point: 1.85x
+[2024-03-07T01:35:50.844] [DEBUG] default - [CRASH] Creshed at 1.85x
+[2024-03-07T01:35:51.868] [ERROR] default - Strange error
+[2024-03-07T01:35:51.869] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-07T01:35:51.871] [DEBUG] default - Whriting error completed!
+[2024-03-07T01:35:55.858] [DEBUG] default - [CRASH] Starting
+[2024-03-07T01:35:56.978] [DEBUG] default - [ROULETTE] Rolling
+[2024-03-07T01:36:01.860] [DEBUG] default - [CRASH] New Game. Point: 4.98x
+[2024-03-07T01:36:07.090] [DEBUG] default - [ROULETTE] Ended
+[2024-03-07T01:36:07.092] [DEBUG] default - [ROULETTE] New Game. Hash: 4318b23531a380dd847b57a937320c08a1977bb882a5f271ebd6084b2e5f19ac, Secret: J1G4M4pxppexR0ek, Roll: 2
+[2024-03-07T01:36:07.092] [DEBUG] default - [ROULETTE] Starting

@@ -1,0 +1,40 @@
+	12:00:13.1313 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:00:29.2929 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:00:46.4646 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:01:00.000 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:01:15.1515 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:01:33.3333 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:01:45.4545 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	12:02:18.1818 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+

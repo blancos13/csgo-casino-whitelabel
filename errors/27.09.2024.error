@@ -1,0 +1,1065 @@
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at rouletteGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:18:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:16:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at rouletteGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:41:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:16:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at rouletteGame_checkRound (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:235:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:233:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at crashGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:10:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:8:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at jackpotGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:7:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:5:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at jackpotGame_checkGames (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:70:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:67:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at crashGame_checkGame (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:299:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:297:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at coinflipGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1111:1), <anonymous>:7:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1111:1), <anonymous>:5:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1111:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at diceGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1112:1), <anonymous>:11:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1112:1), <anonymous>:9:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1112:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:20.2020 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	06:07:21.2121 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at checkCoinpaymentsTransactions (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:195:9)
+    at startCheckingTransactions (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:154:2)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:148:2)
+    at updateCurrencies (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:170:73)
+    at Request.eval [as _callback] (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:185:4)
+
+	06:25:28.2828 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:30:08.088 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:30:31.3131 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:30:59.5959 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:31:33.3333 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:32:02.022 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:32:42.4242 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:32:55.5555 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:33:38.3838 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:34:12.1212 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:34:42.4242 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:35:04.044 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:35:44.4444 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:36:03.033 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:36:24.2424 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:38:25.2525 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:38:48.4848 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:39:45.4545 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:40:14.1414 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:40:28.2828 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:41:00.000 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:41:22.2222 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:41:58.5858 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:42:38.3838 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:43:02.022 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:43:24.2424 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:43:41.4141 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:44:24.2424 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:45:00.000 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:45:41.4141 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:19.1919 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:21.2121 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:21.2121 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:34.3434 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:34.3434 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:34.3434 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:46:59.5959 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:05.055 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:16.1616 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:17.1717 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:19.1919 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:22.2222 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:27.2727 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:30.3030 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:32.3232 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:35.3535 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:47:41.4141 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:48:59.5959 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:49:21.2121 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:49:50.5050 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:50:38.3838 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:51:01.011 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:51:13.1313 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:52:45.4545 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:53:43.4343 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:54:03.033 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:54:47.4747 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	06:55:20.2020 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at rouletteGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:18:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:16:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at rouletteGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:41:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:16:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at rouletteGame_checkRound (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:235:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1), <anonymous>:233:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1108:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at crashGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:10:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:8:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at crashGame_checkGame (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:299:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1), <anonymous>:297:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1109:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at jackpotGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:7:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:5:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at jackpotGame_checkGames (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:70:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1), <anonymous>:67:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1110:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at coinflipGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1111:1), <anonymous>:7:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1111:1), <anonymous>:5:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1111:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:09.099 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at diceGame_loadHistory (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1112:1), <anonymous>:11:7)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1112:1), <anonymous>:9:1)
+    at Object.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1112:1)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:10.1010 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.releaseConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:157:10)
+    at Pool._removeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:277:8)
+    at Pool._purgeConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:258:8)
+    at Handshake.onConnect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:57:14)
+    at Handshake.<anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:488:16)
+
+	08:36:12.1212 
+ Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1602:16)
+    --------------------
+    at Protocol._enqueue (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\mysql\lib\Pool.js:202:8)
+    at checkCoinpaymentsTransactions (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:195:9)
+    at startCheckingTransactions (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:154:2)
+    at eval (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:148:2)
+    at updateCurrencies (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:170:73)
+    at Request.eval [as _callback] (eval at <anonymous> (C:\Users\byte\Desktop\grow\kaseggserver\server.js:1132:1), <anonymous>:185:4)
+
+	08:37:43.4343 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:38:14.1414 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:38:26.2626 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:38:39.3939 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:39:00.000 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:39:08.088 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:39:09.099 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:40:01.011 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:40:19.1919 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:40:38.3838 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:40:52.5252 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:41:10.1010 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:42:24.2424 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:42:29.2929 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:42:50.5050 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:43:31.3131 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:43:51.5151 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:44:05.055 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:44:40.4040 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:45:03.033 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:45:55.5555 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:46:19.1919 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:46:35.3535 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:46:52.5252 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:47:09.099 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:48:25.2525 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:48:56.5656 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:49:18.1818 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+	08:49:35.3535 
+ Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\csgo\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+

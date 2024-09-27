@@ -1,0 +1,47 @@
+[2024-02-13T03:32:43.472] [INFO] default - updating leaderboard
+[2024-02-13T03:32:44.706] [DEBUG] default - [ROULETTE] New Game. Hash: 9089c8d9a518fd2f48b6e638e61e48ff1e456cc83b33500e001aad90e360e923, Secret: xY3vGlXtDcbScvP0, Roll: 11
+[2024-02-13T03:32:44.707] [DEBUG] default - [ROULETTE] Starting
+[2024-02-13T03:32:44.712] [DEBUG] default - [CRASH] Starting
+[2024-02-13T03:32:44.717] [DEBUG] default - [BOT] Items withdraw loaded!
+[2024-02-13T03:32:44.719] [DEBUG] default - [RAIN] Rolling
+[2024-02-13T03:32:46.945] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-02-13T03:32:46.946] [DEBUG] default - [COINPAYMENTS] Prices Loaded
+[2024-02-13T03:32:50.722] [DEBUG] default - [CRASH] New Game. Point: 1.68x
+[2024-02-13T03:33:33.976] [INFO] default - updating leaderboard
+[2024-02-13T03:33:35.118] [DEBUG] default - [ROULETTE] New Game. Hash: 9089c8d9a518fd2f48b6e638e61e48ff1e456cc83b33500e001aad90e360e923, Secret: xY3vGlXtDcbScvP0, Roll: 11
+[2024-02-13T03:33:35.119] [DEBUG] default - [ROULETTE] Starting
+[2024-02-13T03:33:35.125] [DEBUG] default - [BOT] Items withdraw loaded!
+[2024-02-13T03:33:35.127] [DEBUG] default - [RAIN] Rolling
+[2024-02-13T03:33:38.495] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-02-13T03:33:38.496] [DEBUG] default - [COINPAYMENTS] Prices Loaded
+[2024-02-13T03:33:41.131] [DEBUG] default - [CRASH] New Game. Point: 1.68x
+[2024-02-13T03:34:06.128] [INFO] default - updating leaderboard
+[2024-02-13T03:34:07.273] [DEBUG] default - [ROULETTE] New Game. Hash: 9089c8d9a518fd2f48b6e638e61e48ff1e456cc83b33500e001aad90e360e923, Secret: xY3vGlXtDcbScvP0, Roll: 11
+[2024-02-13T03:34:07.274] [DEBUG] default - [ROULETTE] Starting
+[2024-02-13T03:34:07.281] [DEBUG] default - [BOT] Items withdraw loaded!
+[2024-02-13T03:34:07.282] [DEBUG] default - [RAIN] Rolling
+[2024-02-13T03:34:09.807] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-02-13T03:34:09.808] [DEBUG] default - [COINPAYMENTS] Prices Loaded
+[2024-02-13T03:34:13.286] [DEBUG] default - [CRASH] New Game. Point: 1.68x
+[2024-02-13T03:34:27.413] [INFO] default - updating leaderboard
+[2024-02-13T03:34:28.584] [DEBUG] default - [ROULETTE] New Game. Hash: 9089c8d9a518fd2f48b6e638e61e48ff1e456cc83b33500e001aad90e360e923, Secret: xY3vGlXtDcbScvP0, Roll: 11
+[2024-02-13T03:34:28.584] [DEBUG] default - [ROULETTE] Starting
+[2024-02-13T03:34:28.591] [DEBUG] default - [BOT] Items withdraw loaded!
+[2024-02-13T03:34:28.593] [DEBUG] default - [RAIN] Rolling
+[2024-02-13T03:34:31.378] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-02-13T03:34:31.379] [DEBUG] default - [COINPAYMENTS] Prices Loaded
+[2024-02-13T03:34:34.591] [DEBUG] default - [CRASH] New Game. Point: 1.68x
+[2024-02-13T03:34:43.241] [DEBUG] default - [CRASH] Creshed at 1.68x
+[2024-02-13T03:34:43.670] [ERROR] default - Strange error
+[2024-02-13T03:34:43.670] [ERROR] default - Error: Error sending webhook: 404 status code. Response: {"message": "Unknown Webhook", "code": 10015}
+    at Webhook.send (C:\Users\byte\Desktop\grow\kaseggserver\node_modules\discord-webhook-node\src\classes\webhook.js:74:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2024-02-13T03:34:48.369] [INFO] default - updating leaderboard
+[2024-02-13T03:34:49.550] [DEBUG] default - [ROULETTE] New Game. Hash: 9089c8d9a518fd2f48b6e638e61e48ff1e456cc83b33500e001aad90e360e923, Secret: xY3vGlXtDcbScvP0, Roll: 11
+[2024-02-13T03:34:49.551] [DEBUG] default - [ROULETTE] Starting
+[2024-02-13T03:34:49.553] [DEBUG] default - [CRASH] Starting
+[2024-02-13T03:34:49.560] [DEBUG] default - [BOT] Items withdraw loaded!
+[2024-02-13T03:34:49.561] [DEBUG] default - [RAIN] Rolling
+[2024-02-13T03:34:53.880] [DEBUG] default - [COINPAYMENTS] Checking transactions
+[2024-02-13T03:34:53.881] [DEBUG] default - [COINPAYMENTS] Prices Loaded
+[2024-02-13T03:34:55.575] [DEBUG] default - [CRASH] New Game. Point: 1.42x
